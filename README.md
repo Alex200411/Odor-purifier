@@ -8,7 +8,7 @@
 3.one MQ-8 sensor   
 4.one potentiometer    
 5.one Bread Board   
-6.oneStepping motor module(such as l298n) 
+6.oneStepping motor module(such as l298n)
 more information please check:
 https://blog.csdn.net/alexzhang11/article/details/104431210     
 if you have any problems,please send me email 2823790500@qq.com
@@ -21,7 +21,7 @@ if you have any problems,please send me email 2823790500@qq.com
 3.一个mq-8传感器（这是检测氢气的传感器，淘宝上很便宜）    
 4.一个电位器       
 5.一个面包板
-6.一个步进电机模块（l298n可以实现） 
+6.一个步进电机模块（l298n可以实现)
 更多的信息:
 https://blog.csdn.net/alexzhang11/article/details/104431210          
 如果有什么问题，可以联系我 2823790500@qq.com      
